@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="FeIX3PLdOHhibgSUTGBO">
-    <mxGraphModel dx="2308" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="1429" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
             <mxPoint x="3030" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-76" value="3. Navigate to &quot;Book Ticket&quot;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-76" value="3.Navigate to Route Finder" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-77" value="2. Log in" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
@@ -322,10 +322,10 @@
         <mxCell id="86r4l7gdA-iXshZS6CT0-78" value="1. Open App" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-79" value="4. Select a Source metro station" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-79" value="4. Enter Current Location or allow GPS" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3530" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-80" value="0.Create and Log into Accoun" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-80" value="0.Find and Plan Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-81" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
@@ -382,10 +382,10 @@
             <mxPoint x="3650" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-92" value="5. Review fare Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-92" value="5. Enter Destination" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3660" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-93" value="6. Choose Payment Method" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-93" value="6.View Suggested and recommended routes" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3790" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -394,13 +394,13 @@
             <mxPoint x="3780" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-93">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3850" y="360" as="sourcePoint" />
-            <mxPoint x="3840" y="260" as="targetPoint" />
+            <mxPoint x="3638" y="612" as="sourcePoint" />
+            <mxPoint x="3638" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-96" value="7. View Ticket Confirmation" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="86r4l7gdA-iXshZS6CT0-96" value="7. Review Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3920" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-97" value="8. Tap Generate QR&amp;nbsp;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
@@ -411,8 +411,8 @@
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3920" y="280" as="sourcePoint" />
-            <mxPoint x="4040" y="280" as="targetPoint" />
+            <mxPoint x="3792" y="279" as="sourcePoint" />
+            <mxPoint x="3912" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
