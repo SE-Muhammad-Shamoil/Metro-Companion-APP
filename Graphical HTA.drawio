@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="FeIX3PLdOHhibgSUTGBO">
-    <mxGraphModel dx="1844" dy="1073" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2153" dy="1217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,8 +97,8 @@
         <mxCell id="86r4l7gdA-iXshZS6CT0-20" value="4. Select a Source metro station" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-21" value="0.Create and Log into Accoun" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-21" value="Book Ticket and Generate QR" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="862" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-22" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -480,6 +480,9 @@
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-147" value="Plan 5&lt;br&gt;Do 5.1 - 5.2 - 5.3&lt;br&gt;if want to report more about issue&amp;nbsp;&lt;div&gt;or report it has been fixed Do 5.4&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3930" y="305" width="199" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-149" value="&lt;div&gt;Plan 0&lt;/div&gt;Do 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="932" y="149" width="182" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
