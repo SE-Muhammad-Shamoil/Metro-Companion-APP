@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="FeIX3PLdOHhibgSUTGBO">
-    <mxGraphModel dx="1231" dy="1429" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,232 +199,118 @@
             <mxPoint x="1820" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-50" value="3. Navigate to &quot;Book Ticket&quot;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-51" value="2. Log in" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-52" value="1. Open App" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-53" value="4. Select a Source metro station" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-54" value="0.Create and Log into Accoun" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-55" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1870" y="200" as="sourcePoint" />
-            <mxPoint x="3030" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2130" y="200" as="sourcePoint" />
-            <mxPoint x="2240" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-57" value="6.1&lt;div&gt;Select Wallet / Card / Mobile Bank&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2305" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-58" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2310" y="360" as="sourcePoint" />
-            <mxPoint x="2815" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-59" value="6.2&lt;div&gt;&amp;nbsp;Confirm Payment&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2435" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-60" value="2.3&amp;nbsp;&lt;div&gt;Enter OTP&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2565" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-61" value="2.4&lt;div&gt;&amp;nbsp;Tap Proceed&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2695" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1870" y="280" as="sourcePoint" />
-            <mxPoint x="1990" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2000" y="280" as="sourcePoint" />
-            <mxPoint x="2120" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2130" y="280" as="sourcePoint" />
-            <mxPoint x="2250" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2260" y="280" as="sourcePoint" />
-            <mxPoint x="2380" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-66" value="5. Review fare Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-67" value="6. Choose Payment Method" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2390" y="280" as="sourcePoint" />
-            <mxPoint x="2510" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-67">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2580" y="360" as="sourcePoint" />
-            <mxPoint x="2570" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-70" value="7. View Ticket Confirmation" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-71" value="8. Tap Generate QR&amp;nbsp;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-72" value="9. View and save QR code" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2650" y="280" as="sourcePoint" />
-            <mxPoint x="2770" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2780" y="280" as="sourcePoint" />
-            <mxPoint x="2900" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2910" y="280" as="sourcePoint" />
-            <mxPoint x="3030" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-76" value="3.Navigate to Route Finder" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2199" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-77" value="2. Log in" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3270" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2069" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-78" value="1. Open App" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="1939" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-79" value="4. Enter Current Location or allow GPS" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3530" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2329" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-80" value="0.Find and Plan Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="2140" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-81" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3140" y="200" as="sourcePoint" />
-            <mxPoint x="4300" y="200" as="targetPoint" />
+            <mxPoint x="1939" y="196" as="sourcePoint" />
+            <mxPoint x="3229" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3400" y="200" as="sourcePoint" />
-            <mxPoint x="3510" y="270" as="targetPoint" />
+            <mxPoint x="2199" y="196" as="sourcePoint" />
+            <mxPoint x="2309" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-83" value="6.1&lt;div&gt;Select Wallet / Card / Mobile Bank&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3575" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-83" value="7.1 Estimated Cost" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2554" y="362" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-84" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3580" y="360" as="sourcePoint" />
-            <mxPoint x="4085" y="360" as="targetPoint" />
+            <mxPoint x="2554" y="353" as="sourcePoint" />
+            <mxPoint x="3063" y="352.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-85" value="6.2&lt;div&gt;&amp;nbsp;Confirm Payment&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3705" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-85" value="7.2 Walking Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2684" y="362" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-86" value="2.3&amp;nbsp;&lt;div&gt;Enter OTP&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3835" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-86" value="7.3 Transfers" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2814" y="362" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-87" value="2.4&lt;div&gt;&amp;nbsp;Tap Proceed&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3965" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-87" value="7.4 Travel Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2944" y="362" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3140" y="280" as="sourcePoint" />
-            <mxPoint x="3260" y="280" as="targetPoint" />
+            <mxPoint x="1939" y="276" as="sourcePoint" />
+            <mxPoint x="2059" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3270" y="280" as="sourcePoint" />
-            <mxPoint x="3390" y="280" as="targetPoint" />
+            <mxPoint x="2069" y="276" as="sourcePoint" />
+            <mxPoint x="2189" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3400" y="280" as="sourcePoint" />
-            <mxPoint x="3520" y="280" as="targetPoint" />
+            <mxPoint x="2199" y="276" as="sourcePoint" />
+            <mxPoint x="2319" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3530" y="280" as="sourcePoint" />
-            <mxPoint x="3650" y="280" as="targetPoint" />
+            <mxPoint x="2329" y="276" as="sourcePoint" />
+            <mxPoint x="2449" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-92" value="5. Enter Destination" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3660" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2459" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-93" value="6.View Suggested and recommended routes" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3790" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2589" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3660" y="280" as="sourcePoint" />
-            <mxPoint x="3780" y="280" as="targetPoint" />
+            <mxPoint x="2459" y="276" as="sourcePoint" />
+            <mxPoint x="2579" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3638" y="612" as="sourcePoint" />
-            <mxPoint x="3638" y="522" as="targetPoint" />
+            <mxPoint x="2773" y="353.78" as="sourcePoint" />
+            <mxPoint x="2773" y="263.78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-96" value="7. Review Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3920" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2719" y="206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-97" value="8. Tap Generate QR&amp;nbsp;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4050" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-97" value="8.Select Preferred Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2849" y="206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-98" value="9. View and save QR code" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4180" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-98" value="9. Save Route as Favorite (Optional)" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="206" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3792" y="279" as="sourcePoint" />
-            <mxPoint x="3912" y="279" as="targetPoint" />
+            <mxPoint x="2593" y="276" as="sourcePoint" />
+            <mxPoint x="2713" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4050" y="280" as="sourcePoint" />
-            <mxPoint x="4170" y="280" as="targetPoint" />
+            <mxPoint x="2849" y="276" as="sourcePoint" />
+            <mxPoint x="2969" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-101" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4180" y="280" as="sourcePoint" />
-            <mxPoint x="4300" y="280" as="targetPoint" />
+            <mxPoint x="2979" y="276" as="sourcePoint" />
+            <mxPoint x="3099" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -471,6 +357,150 @@
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-111" value="Plan 3&lt;div&gt;do 3.1-3.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-113" value="10. Start Navigation" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3109" y="206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3109" y="274.46" as="sourcePoint" />
+            <mxPoint x="3229" y="274.46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-116" value="Plan 0&amp;nbsp;&lt;br&gt;Do 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8&amp;nbsp;&lt;div&gt;If Wanting to save route as favorite 8&amp;nbsp;&lt;/div&gt;&lt;div&gt;then 9&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2211" y="120" width="216" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-117" value="Plan 7&amp;nbsp;&lt;br&gt;Do 7.1 - 7.2 - 7.3 - 7.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2779" y="299" width="135" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-118" value="3.Navigate to Route Finder" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3521" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-119" value="2. Log in" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3391" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-120" value="1. Open App" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3261" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-121" value="4. Enter Current Location or allow GPS" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3651" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-122" value="0.Find and Plan Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3462" y="52.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-123" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3261" y="193.5" as="sourcePoint" />
+            <mxPoint x="4551" y="193.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-124" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3521" y="193.5" as="sourcePoint" />
+            <mxPoint x="3631" y="263.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-125" value="7.1 Estimated Cost" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3876" y="359.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-126" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3876" y="350.5" as="sourcePoint" />
+            <mxPoint x="4385" y="350.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-127" value="7.2 Walking Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4006" y="359.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-128" value="7.3 Transfers" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4136" y="359.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-129" value="7.4 Travel Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4266" y="359.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3261" y="273.5" as="sourcePoint" />
+            <mxPoint x="3381" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-131" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3391" y="273.5" as="sourcePoint" />
+            <mxPoint x="3511" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3521" y="273.5" as="sourcePoint" />
+            <mxPoint x="3641" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-133" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3651" y="273.5" as="sourcePoint" />
+            <mxPoint x="3771" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-134" value="5. Enter Destination" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3781" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-135" value="6.View Suggested and recommended routes" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3911" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-136" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3781" y="273.5" as="sourcePoint" />
+            <mxPoint x="3901" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-137" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4095" y="351.28" as="sourcePoint" />
+            <mxPoint x="4095" y="261.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-138" value="7. Review Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4041" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-139" value="8.Select Preferred Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4171" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-140" value="9. Save Route as Favorite (Optional)" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4301" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-141" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3915" y="273.5" as="sourcePoint" />
+            <mxPoint x="4035" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-142" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4171" y="273.5" as="sourcePoint" />
+            <mxPoint x="4291" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-143" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4301" y="273.5" as="sourcePoint" />
+            <mxPoint x="4421" y="273.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-144" value="10. Start Navigation" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4431" y="203.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-145" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4431" y="271.96" as="sourcePoint" />
+            <mxPoint x="4551" y="271.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-146" value="Plan 0&amp;nbsp;&lt;br&gt;Do 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8&amp;nbsp;&lt;div&gt;If Wanting to save route as favorite 8&amp;nbsp;&lt;/div&gt;&lt;div&gt;then 9&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3533" y="117.5" width="216" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-147" value="Plan 7&amp;nbsp;&lt;br&gt;Do 7.1 - 7.2 - 7.3 - 7.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4101" y="296.5" width="135" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
