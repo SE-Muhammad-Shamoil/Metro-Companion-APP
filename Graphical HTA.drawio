@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="FeIX3PLdOHhibgSUTGBO">
-    <mxGraphModel dx="971" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="1209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,134 +373,113 @@
         <mxCell id="86r4l7gdA-iXshZS6CT0-117" value="Plan 7&amp;nbsp;&lt;br&gt;Do 7.1 - 7.2 - 7.3 - 7.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2779" y="299" width="135" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-118" value="3.Navigate to Route Finder" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3521" y="203.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-118" value="3. Tap on &quot;Real Time Updates&quot; icon" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3609" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-119" value="2. Log in" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3391" y="203.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3479" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-120" value="1. Open App" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3261" y="203.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3349" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-121" value="4. Enter Current Location or allow GPS" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3651" y="203.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-121" value="4.Selct metro line or station" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3739" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-122" value="0.Find and Plan Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3462" y="52.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-122" value="0. Receive Real Time Metro Updates" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="59" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-123" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3261" y="193.5" as="sourcePoint" />
-            <mxPoint x="4551" y="193.5" as="targetPoint" />
+            <mxPoint x="3349" y="200" as="sourcePoint" />
+            <mxPoint x="4249" y="200.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-124" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="86r4l7gdA-iXshZS6CT0-122">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3521" y="193.5" as="sourcePoint" />
-            <mxPoint x="3631" y="263.5" as="targetPoint" />
+            <mxPoint x="3609" y="200" as="sourcePoint" />
+            <mxPoint x="3719" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-125" value="7.1 Estimated Cost" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3876" y="359.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-125" value="5.1 Click on Latest Update" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3715" y="395.78" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-126" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3876" y="350.5" as="sourcePoint" />
-            <mxPoint x="4385" y="350.03" as="targetPoint" />
+            <mxPoint x="3715" y="386.78" as="sourcePoint" />
+            <mxPoint x="4224" y="386.30999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-127" value="7.2 Walking Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4006" y="359.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-127" value="5.2 View Detailed Analysis" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3845" y="395.78" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-128" value="7.3 Transfers" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4136" y="359.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-128" value="5.3 view Alternate Option" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3975" y="395.78" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-129" value="7.4 Travel Time" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4266" y="359.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-129" value="5.4 Report Update" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4105" y="395.78" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3261" y="273.5" as="sourcePoint" />
-            <mxPoint x="3381" y="273.5" as="targetPoint" />
+            <mxPoint x="3349" y="280" as="sourcePoint" />
+            <mxPoint x="3469" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-131" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3391" y="273.5" as="sourcePoint" />
-            <mxPoint x="3511" y="273.5" as="targetPoint" />
+            <mxPoint x="3479" y="280" as="sourcePoint" />
+            <mxPoint x="3599" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3521" y="273.5" as="sourcePoint" />
-            <mxPoint x="3641" y="273.5" as="targetPoint" />
+            <mxPoint x="3609" y="280" as="sourcePoint" />
+            <mxPoint x="3729" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-133" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3651" y="273.5" as="sourcePoint" />
-            <mxPoint x="3771" y="273.5" as="targetPoint" />
+            <mxPoint x="3739" y="280" as="sourcePoint" />
+            <mxPoint x="3859" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-134" value="5. Enter Destination" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3781" y="203.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-134" value="5. View Status" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3869" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-135" value="6.View Suggested and recommended routes" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3911" y="203.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-135" value="6. Subscribe for status notifications" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3999" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-136" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3781" y="273.5" as="sourcePoint" />
-            <mxPoint x="3901" y="273.5" as="targetPoint" />
+            <mxPoint x="3869" y="280" as="sourcePoint" />
+            <mxPoint x="3989" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-137" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4095" y="351.28" as="sourcePoint" />
-            <mxPoint x="4095" y="261.28" as="targetPoint" />
+            <mxPoint x="3923" y="381.5" as="sourcePoint" />
+            <mxPoint x="3923" y="291.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-138" value="7. Review Details" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4041" y="203.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-139" value="8.Select Preferred Route" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4171" y="203.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-140" value="9. Save Route as Favorite (Optional)" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4301" y="203.5" width="120" height="60" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-138" value="7. Enable General notification alerts" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4129" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-141" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3915" y="273.5" as="sourcePoint" />
-            <mxPoint x="4035" y="273.5" as="targetPoint" />
+            <mxPoint x="4003" y="280" as="sourcePoint" />
+            <mxPoint x="4123" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86r4l7gdA-iXshZS6CT0-142" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4171" y="273.5" as="sourcePoint" />
-            <mxPoint x="4291" y="273.5" as="targetPoint" />
+            <mxPoint x="4135" y="280" as="sourcePoint" />
+            <mxPoint x="4255" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-143" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4301" y="273.5" as="sourcePoint" />
-            <mxPoint x="4421" y="273.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="86r4l7gdA-iXshZS6CT0-146" value="Plan 0&amp;nbsp;&lt;br&gt;Do 1 - 2 - 3&amp;nbsp;&lt;br&gt;if to get updates specific of a line 4 - 5 - 6&lt;div&gt;if to get notification alerts 7&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3621" y="124" width="237" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-144" value="10. Start Navigation" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4431" y="203.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-145" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4431" y="271.96" as="sourcePoint" />
-            <mxPoint x="4551" y="271.96" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-146" value="Plan 0&amp;nbsp;&lt;br&gt;Do 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8&amp;nbsp;&lt;div&gt;If Wanting to save route as favorite 8&amp;nbsp;&lt;/div&gt;&lt;div&gt;then 9&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3533" y="117.5" width="216" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="86r4l7gdA-iXshZS6CT0-147" value="Plan 7&amp;nbsp;&lt;br&gt;Do 7.1 - 7.2 - 7.3 - 7.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4101" y="296.5" width="135" height="41" as="geometry" />
+        <mxCell id="86r4l7gdA-iXshZS6CT0-147" value="Plan 5&lt;br&gt;Do 5.1 - 5.2 - 5.3&lt;br&gt;if want to report more about issue&amp;nbsp;&lt;div&gt;or report it has been fixed Do 5.4&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3930" y="305" width="199" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
